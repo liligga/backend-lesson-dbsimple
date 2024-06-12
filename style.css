@@ -3,3 +3,9 @@ pre.slidev-code {
   font-size: 1.2rem !important;
   line-height: 1.2rem !important;
 }
+
+pre.slidev-code code {
+  font-family: monospace;
+  font-size: 1.2rem !important;
+  line-height: 1.2rem !important;
+}

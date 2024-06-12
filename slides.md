@@ -58,8 +58,6 @@ layout: center
 
 ## А как работать с SQL в Python?
 
-Создать таблицу
-
 ```python {all|1-4|6-7|9-16|all}{lines:true}
 import sqlite3
 
